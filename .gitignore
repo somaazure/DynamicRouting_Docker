@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data/output
+temp_files/
+S3_upload/
+SP_upload/
+#local_sharepoint/
+
+# Environment
+.env
+*.env
+
+# Dev container extras
+.vscode/

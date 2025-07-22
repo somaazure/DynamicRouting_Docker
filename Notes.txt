@@ -1,0 +1,3 @@
+Your setup.py makes your project installable as a Python package,
+automatically includes all sub-packages, and ensures required dependencies (like griffe)
+ are installed.

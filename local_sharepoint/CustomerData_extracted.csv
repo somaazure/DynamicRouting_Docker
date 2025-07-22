@@ -1,0 +1,3 @@
+CustomerID,Name,Phone,SourceFileName
+1,Alice,1234567890,CustomerData.xlsx
+2,Bob,9876543210,CustomerData.xlsx
